@@ -5,6 +5,7 @@
 1. Array
 	1. [How do you find the duplicate number on a given integer array ?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/DuplicateNumberOnIntArray.java)
 	2. [How to reverse an given integer array in Java ?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/ReverseIntArray.java)
+	3. [How to delete the duplicate elements on a given integer array via Java API?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/RemoveDuplicatesFromArray.java)
 2. Search
 3. String
 4. LinkedList
