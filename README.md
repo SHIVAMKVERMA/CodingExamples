@@ -8,6 +8,7 @@
 	3. [How to delete the duplicate elements on a given integer array via Java API?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/RemoveDuplicatesFromArray.java)
 2. Search
 3. String
+	1. [How to print duplicate characters from a string ?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/DuplicateCharString.java)
 4. LinkedList
 5. Tree
 6. Graph
