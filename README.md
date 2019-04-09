@@ -12,7 +12,9 @@
 4. LinkedList
 5. Tree
 6. Graph
-7. Miscellaneous
+7. Sorting
+	1. [How to sort given array using bubble sort without using Java API ?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/BubbleSort.java)
+8. Miscellaneous
 	1. [How to find the Fibonacci series via recursion ?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/FibonacciSeries.java)
 	2. [How to find the Factorial of a number via recursion?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/FactorialNumber.java)
 
