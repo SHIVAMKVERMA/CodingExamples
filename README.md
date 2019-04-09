@@ -12,6 +12,7 @@
 4. LinkedList
 5. Tree
 6. Graph
+7. Miscellaneous
 
 
 ###### README file will be updated as per code updates.
