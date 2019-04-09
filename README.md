@@ -14,7 +14,7 @@
 6. Graph
 7. Miscellaneous
 	1. [How to find the Fibonacci series via recursion ?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/FibonacciSeries.java)
-	2. [How to find the factorial of a number via recursion?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/FactorialNumber.java)
+	2. [How to find the Factorial of a number via recursion?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/FactorialNumber.java)
 
 
 ###### README file will be updated as per code updates.
