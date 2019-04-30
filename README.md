@@ -20,6 +20,7 @@
 	3. [How to check whether a number is Palindrome or not ?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/PalindromeNumber.java)
 	4. [How to print Floyd Triangle with user input ?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/FloydTriangle.java)
 	5. [How to check whether a number is Armstrong Number ?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/ArmstrongNumber.java)
+	6. [How to print Pascal Triangle based on user input ?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/PascalTriangle.java)
 
 
 ###### README file will be updated as per code updates.
