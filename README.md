@@ -11,6 +11,7 @@
 2. Search
 3. String
 	1. [How to print duplicate characters from a string ?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/DuplicateCharString.java)
+	2. [How to print the surname in descending sort separated via comma in a string array?](https://github.com/SHIVAMKVERMA/CodingExamples/blob/master/StringDescendingOrderSort.java)
 4. LinkedList
 5. Tree
 6. Graph
