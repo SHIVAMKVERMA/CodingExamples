@@ -2,7 +2,7 @@ import java.util.*;
 
 public class StringDescendingOrderSort {
 	public static void main(String[] args) {
-		String[] str = {"Shivam,Verma", "Arjun,Joshi", "Saurabh,Suman","Ojaswita,Mishra"};	
+		String[] str = {"Ram,Desh", "Shyam,Sharma", "Saurabh,Chakra","Anubhav,Mishra"};	
 
 		printSplitAndReverseStringArray(str);
 	}
